@@ -14,9 +14,6 @@ The construction sector is under a critical need to minimize its carbon footprin
 ## Installation
 To run the code, you need Python 3.x. Install the required packages using:
 ```bash
-pip install -r requirements.txt
-
-## Usage
 Open the Jupyter Notebook and run the cells sequentially to reproduce the results and SHAP visualizations.
 
 
