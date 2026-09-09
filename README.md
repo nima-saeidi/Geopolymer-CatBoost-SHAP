@@ -26,10 +26,4 @@ In addition, the model predictions were demystified using SHapley Additive exPla
 
 ---
 
-## Installation
-
-1. **Clone the repository:**
-```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
    
