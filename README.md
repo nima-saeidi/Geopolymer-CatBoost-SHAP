@@ -21,8 +21,6 @@ In addition, the model predictions were demystified using SHapley Additive exPla
 
 ## Repository Structure
 - `DBO_CatBoost_SHAP_Analysis.ipynb`: The main Jupyter Notebook containing data preprocessing, leakage-free nested GroupKFold cross-validation, hyperparameter tuning with DBO, model evaluation, and SHAP/PDP interpretability analysis.
-- `requirements.txt`: List of dependencies required to reproduce the environment.
-- `Data/`: Directory containing the dataset and feature-engineered variables.
 
 ---
 
